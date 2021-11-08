@@ -1,2 +1,2 @@
 # Elevator-Simulation
-Elevator simulation using windows forms C#
+Elevator simulation using windows forms 
