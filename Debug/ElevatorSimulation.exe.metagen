@@ -1,0 +1,46 @@
+  ElevatorSimulation.MainForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ElevatorSimulation, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct Person: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class Elevator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 currentLevel : Public, Static
+    Int32 destinationLevel : Public, Static
+    std.list<Person\,std::allocator<Person> >* queueOrders : Public, Static
+    std.list<Person\,std::allocator<Person> >* peopleInElevator : Public, Static
+    Int32 peopleInTheQueue : Public, Static
+    Boolean used : Public, Static
+    Int32 currentDirection : Public, Static
+    Int32 maxLift : Public, Static
+    Int32 currentLift : Public, Static
+    Int64 lastAction : Public, Static
+    Boolean goDown : Public, Static
+    Int32 TotalNumberOfOrders : Public, Static
+  Methods:
+    Execute(): PrivateScope, Public, Static, HideBySig
+    OrderElevator(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    HandleLevel(): PrivateScope, Public, HideBySig
+    GetMinOrderedLevel(): PrivateScope, Public, Static, HideBySig
+    GetMaxOrderedLevel(): PrivateScope, Public, Static, HideBySig
+    GetMaxDestLevel(): PrivateScope, Public, Static, HideBySig
+    GetMinDestLevel(): PrivateScope, Public, Static, HideBySig
+Class ElevatorSimulation.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Elevator elevator IsByValue : Public, Static, InitOnly

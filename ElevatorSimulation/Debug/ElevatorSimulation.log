@@ -1,0 +1,71 @@
+﻿  Elevator.cpp
+  MainForm.cpp
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(514,46): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(514,52): error C2061:  błąd składniowy: identyfikator „string”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(518,3): error C2065:  "os": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(523,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(523,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(523,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(523,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(524,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(525,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(525,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(529,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(529,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(529,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(529,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(530,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(531,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(531,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(534,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(534,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(534,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(534,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(535,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(536,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(536,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(540,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(540,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(540,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(540,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(541,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(542,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(542,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(545,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(545,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(545,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(545,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(546,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(547,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(547,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(550,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(550,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(550,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(550,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(551,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(552,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(552,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(555,8): error C2039:  „string”: Nie jest składową „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(19): message :  zobacz deklarację „std”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(555,1): error C2065:  "string": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(555,15): error C2146:  błąd składniowy: brakuje „;” przed identyfikatorem „temp”
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(555,15): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(556,39): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(557,71): error C2065:  "temp": niezadeklarowany identyfikator
+C:\Studia\ElevatorSimulation\ElevatorSimulation\MainForm.h(557,1): error C2660:  "Elevator::OrderElevator": funkcja nie przyjmuje 2 argumentów
+  Person.cpp
+  Generowanie kodu...
+C:\Studia\ElevatorSimulation\ElevatorSimulation\Elevator.h(23,7): message :  zobacz deklarację „Elevator::OrderElevator”
